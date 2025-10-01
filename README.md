@@ -14,3 +14,9 @@ El velocista "VeloR" es un robot seguidor de línea diseñado para competir en d
 ## Contenido del repositorio
 
 - **/hardware**: Aquí se encuentran los diseños y esquemas del hardware electrónico utilizado en Coyote. Estos archivos incluyen los esquemas de conexión y los diagramas de circuitos. 
+
+
+## Componentes principales
+Microcontolador ESP32
+Controlador de motores 2-TA6586
+Batería 3S 850mAh
