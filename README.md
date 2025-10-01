@@ -7,9 +7,9 @@ El velocista "VeloR" es un robot seguidor de línea diseñado para competir en d
 
 ## Características principales
 
-- **Seguimiento de línea**: VeloR utiliza los sensores ópticos tcrt5000 para seguir líneas con precisión y rapidez.
+- **Seguimiento de línea**: VeloR utilizará 8 sensores sensores ópticos tcrt5000 para seguir líneas con precisión y rapidez.
 
-- **Velocidad y agilidad**: Utiliza sus motores de RPM2000, VeloR alcanzará altas velocidades y realizar maniobras bruscas gracias a sus ruedas que le ayudan a tener mejor agarre en la pista.
+- **Velocidad y agilidad**: Utiliza unos motores de muchas rpm para alcanzar altas velocidades y realizar maniobras bruscas en conjunto a sus ruedas que le ayudan a tener mejor agarre en la pista.
 
 ## Contenido del repositorio
 
