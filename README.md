@@ -3,7 +3,7 @@
 
 ## Descripción
 
-El velocista "Coyote" es un robot seguidor de línea de alto rendimiento diseñado para competir en desafíos de velocidad y precisión. Este repositorio contiene el firmware, el diseño de hardware electrónico y los modelos 3D relacionados con el robot Coyote. Aquí encontrarás toda la información necesaria para comprender el robot seguidor de línea Coyote.
+El velocista "VeloR" es un robot seguidor de línea diseñado para competir en desafíos de velocidad y precisión. Este repositorio posee el diseño de hardware electrónico relacionados con VeloR. Aquí encontrarás toda la información necesaria para comprender el robot seguidor de línea VeloR.
 
 ## Características principales
 
