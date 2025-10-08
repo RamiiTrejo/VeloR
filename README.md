@@ -22,4 +22,5 @@ El velocista "VeloR" es un robot seguidor de línea diseñado para competir en d
 - Batería 3S 450mAh
 - DISPLAY OLED 64X128
 - Motorreductor ProFast 12v 3600RPM
+- Ruedas de ARSUMO 20 X 42
 - Regleta de QTR8A 
