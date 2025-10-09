@@ -18,7 +18,7 @@ El velocista "VeloR" es un robot seguidor de línea diseñado para competir en d
 
 ## 🎉Objetivo
 
- El grán objetivo de **VeloR** es ir a competir en las ligas de "Carreras" en la Liga Nacional de Robotica
+ El objetivo propuesto de este robot seguidor de línea **VeloR** es ir a competir en las ligas de "Carreras" en la Liga Nacional de Robotica
  
 ## ⚒ Componentes principales
 - Microcontolador ESP32
