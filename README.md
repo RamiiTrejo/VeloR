@@ -35,3 +35,6 @@ El velocista "VeloR" es un robot seguidor de línea diseñado para competir en d
 <div align="center">
 <img src= "./docs/PCB MAIN BLUE.PNG" alt="PCB MAIN BLUE" width="600" height="1200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba (0,0,0,0,2);"/>
 
+<div align="center">
+<img src= "./docs/PCB MAIN RED.PNG" alt="PCB MAIN BLUE" width="600" height="1200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba (0,0,0,0,2);"/>
+
