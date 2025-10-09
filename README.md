@@ -3,17 +3,17 @@
 
 ## Descripción
 
-El velocista "VeloR" es un robot seguidor de línea diseñado para competir en desafíos de velocidad y precisión. Este repositorio posee el diseño de hardware electrónico relacionados con VeloR. Aquí encontrarás toda la información necesaria para comprender el robot seguidor de línea VeloR.
+El velocista "VeloR" es un robot seguidor de línea diseñado para competir en desafíos de velocidad y precisión. Este repositorio posee el diseño de hardware, firmware, 3D relacionados con VeloR. Aquí encontrarás toda la información necesaria para comprender el robot seguidor de línea VeloR.
 
 ## Características principales
 
-- **Seguimiento de línea**: VeloR utilizará 8 sensores sensores ópticos tcrt5000 para seguir líneas con precisión y rapidez.
+- **Seguimiento de línea**: VeloR utilizará la regleta QTR8A para seguir líneas con precisión y rapidez.
 
-- **Velocidad y agilidad**: Utiliza unos motores de muchas rpm para alcanzar altas velocidades y realizar maniobras bruscas en conjunto a sus ruedas que le ayudan a tener mejor agarre en la pista.
+- **Velocidad**: Utiliza unos motores de muchas rpm para alcanzar altas velocidades y realizar maniobras bruscas en conjunto a sus ruedas que le ayudan a tener mejor agarre en la pista.
 
 ## Contenido del repositorio
 - **/firmware**: En esta carpeta encontrarás el código fuente del firmware utilizado en VeloR. El firmware está escrito en lenguaje C++ y se basa en la plataforma de desarrollo ESP32. Incluye los algoritmos de control, la lógica de seguimiento de línea y la comunicación con los sensores y actuadores del robot.
-- **/hardware**: Aquí se encuentran los diseños y esquemas del hardware electrónico utilizado en Coyote. Estos archivos incluyen los esquemas de conexión y los diagramas de circuitos. 
+- **/hardware**: Aquí se encuentran los diseños y esquemas del hardware electrónico utilizado en VeloR. Estos archivos incluyen los esquemas de conexión y los diagramas de circuitos. 
 
 
 ## ⚒ Componentes principales
