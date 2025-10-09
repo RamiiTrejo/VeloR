@@ -9,12 +9,12 @@ El velocista "VeloR" es un robot seguidor de línea diseñado para competir en d
 
 - **Seguimiento de línea**: VeloR utilizará la regleta QTR8A para seguir líneas con precisión y rapidez.
 
-- **Velocidad**: Utiliza unos motores ProFast de 3600RPM para alcanzar altas velocidades y realizar maniobras bruscas en conjunto a sus ruedas que le ayudan a tener mejor agarre en la pista.
+- **Velocidad**: Utiliza unos motores de 3600RPM para alcanzar altas velocidades y realizar maniobras bruscas en conjunto a sus ruedas que le ayudan a tener mejor agarre en la pista.
 
-## Contenido del repositorio
-- **/firmware**: En esta carpeta encontrarás el código fuente del firmware utilizado en VeloR. El firmware está escrito en lenguaje C++ y se basa en la plataforma de desarrollo ESP32. Incluye los algoritmos de control, la lógica de seguimiento de línea y la comunicación con los sensores y actuadores del robot.
-- **/hardware**: Aquí se encuentran los diseños y esquemas del hardware electrónico utilizado en VeloR. Estos archivos incluyen los esquemas de conexión y los diagramas de circuitos. 
-
+## Contenidos
+- **Firmware**: En esta carpeta encontrarás el código fuente del firmware utilizado en VeloR. El firmware está escrito en lenguaje C++ y se basa en la plataforma de desarrollo ESP32. Incluye los algoritmos de control, la lógica de seguimiento de línea y la comunicación con los sensores y actuadores del robot.
+- **Hardware**: Aquí se encuentran los diseños y esquemas del hardware electrónico utilizado en VeloR. Estos archivos incluyen los esquemas de conexión y los diagramas de circuitos.
+- **3D**: También encontraremos los archivos 3D que se utilizarán en este proyecto.
 
 ## ⚒ Componentes principales
 - Microcontolador ESP32
