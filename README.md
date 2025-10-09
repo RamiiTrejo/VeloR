@@ -16,7 +16,7 @@ El velocista "VeloR" es un robot seguidor de línea diseñado para competir en d
 - **Hardware**: Aquí se encuentran los diseños y esquemas del hardware electrónico utilizado en VeloR. Estos archivos incluyen los esquemas de conexión y los diagramas de circuitos.
 - **3D**: También encontraremos los archivos 3D que se utilizarán en este proyecto.
 
-## Objetivo
+## 🎉Objetivo
 
  El grán objetivo de **VeloR** es ir a competir en las ligas de "Carreras" en la Liga Nacional de Robotica
  
