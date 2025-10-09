@@ -28,3 +28,10 @@ El velocista "VeloR" es un robot seguidor de línea diseñado para competir en d
 - Motorreductor ProFast 12v 3600RPM
 - Ruedas de ARSUMO 20 X 42
 - Regleta de QTR8A 
+
+
+## Imagenes del pcb
+
+<div aling="center">
+<img src= "./docs/PCB MAIN BLUE.PNG" alt="PCB MAIN BLUE" width="300" height="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba (0,0,0,0,2);"/>
+
