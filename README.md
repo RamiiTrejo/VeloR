@@ -21,8 +21,8 @@ El velocista "VeloR" es un robot seguidor de línea diseñado para competir en d
  El objetivo propuesto de este robot seguidor de línea **VeloR** es ir a competir en las ligas de "Carreras" en la Liga Nacional de Robotica
  
 ## ⚒ Componentes principales
-- Microcontolador ESP32
-- Controlador de motores 2-TA6586
+- Microcontolador ESP32 embebido
+- 2-Controlador de motores TA6586
 - Batería 3S 450mAh
 - DISPLAY OLED 64X128
 - Motorreductor ProFast 12v 3600RPM
