@@ -7474,7 +7474,7 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 205.74 112.395) (xy 175.26 112.395) (xy 175.26 135.255) (xy 205.74 135.255)
+				(xy 174.625 149.225) (xy 174.625 159.385) (xy 206.375 159.385) (xy 206.375 149.225)
 			)
 			(stroke
 				(width 0)
@@ -7483,22 +7483,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 064fce05-00e9-4d78-a7fd-e356dd923f37)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 102.87 43.815) (xy 80.645 43.815) (xy 80.645 66.675) (xy 102.87 66.675)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 0b874358-c6c7-4d51-bc2d-cce5ba6a508e)
+			(uuid 23086b81-a6b4-4b26-9740-45113aacb9ac)
 		)
 	)
 	(rule_area
@@ -7513,13 +7498,13 @@
 			(fill
 				(type none)
 			)
-			(uuid 504bc6a7-95e9-40d6-912f-3775d0497383)
+			(uuid 27ce630e-c0df-44c1-a3fe-605fdac27277)
 		)
 	)
 	(rule_area
 		(polyline
 			(pts
-				(xy 50.165 156.845) (xy 99.695 156.845) (xy 99.695 111.125) (xy 50.165 111.125)
+				(xy 205.74 112.395) (xy 175.26 112.395) (xy 175.26 135.255) (xy 205.74 135.255)
 			)
 			(stroke
 				(width 0)
@@ -7528,112 +7513,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 7131fc26-2569-4f05-9fb6-906d01e60f90)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 60.96 70.485) (xy 60.96 108.585) (xy 104.14 108.585) (xy 104.14 70.485)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 84868e73-36ce-4e5d-9360-b49075f28c76)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 174.625 149.225) (xy 174.625 159.385) (xy 206.375 159.385) (xy 206.375 149.225)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 87ef3aa3-b57f-41f6-a916-ab60614aad00)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 132.08 136.525) (xy 132.08 159.385) (xy 170.18 159.385) (xy 170.18 136.525)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid ab575cea-401b-42bf-baae-37f45192eac4)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 106.045 38.735) (xy 106.045 108.585) (xy 173.355 108.585) (xy 173.355 38.735)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid b261c4c4-72a3-44a4-9c36-2fb964aad5f4)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 212.09 158.115) (xy 248.92 158.115) (xy 248.92 137.795) (xy 212.09 137.795)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid b2fb0276-4dbd-4d9c-abbb-cc1e432e38e4)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 127 116.84) (xy 102.87 116.84) (xy 102.87 144.78) (xy 127 144.78)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid dba64a0c-ef91-4215-97a2-2b9689c1c074)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 174.625 136.525) (xy 174.625 147.955) (xy 206.375 147.955) (xy 206.375 136.525)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid e9404a75-fa8c-416f-8aa5-0f80304d0674)
+			(uuid 46dd040b-62a0-486f-aa88-5c768033e158)
 		)
 	)
 	(rule_area
@@ -7648,7 +7528,127 @@
 			(fill
 				(type none)
 			)
-			(uuid f95298cd-9466-475a-ab1d-165e75951145)
+			(uuid 6fd0b97d-9ba8-4c7d-9196-9c04129b5928)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 50.165 156.845) (xy 99.695 156.845) (xy 99.695 111.125) (xy 50.165 111.125)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 84617b1f-cbfb-48bf-83e5-24d119b02ee5)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 132.08 136.525) (xy 132.08 159.385) (xy 170.18 159.385) (xy 170.18 136.525)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid d8d422aa-af64-4788-b1e3-df6273695bd1)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 174.625 136.525) (xy 174.625 147.955) (xy 206.375 147.955) (xy 206.375 136.525)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid df8f6db6-b357-4ea6-a3dc-e053506323ca)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 127 116.84) (xy 102.87 116.84) (xy 102.87 144.78) (xy 127 144.78)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid e3e8aa6c-723d-48b0-bbf1-1ef572eff392)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 106.045 38.735) (xy 106.045 108.585) (xy 173.355 108.585) (xy 173.355 38.735)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid e6c4177b-7931-4c5f-8181-e415a53039d1)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 212.09 158.115) (xy 248.92 158.115) (xy 248.92 137.795) (xy 212.09 137.795)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid e96f5d98-4aae-4856-8cc5-31ef19f4e4c9)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 102.87 43.815) (xy 80.645 43.815) (xy 80.645 66.675) (xy 102.87 66.675)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid ec861d21-e685-4ea1-b1a2-7f84b103dbf2)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 60.96 70.485) (xy 60.96 108.585) (xy 104.14 108.585) (xy 104.14 70.485)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid f6ef94d4-757a-4f70-8cd3-737a1d0acca8)
 		)
 	)
 	(symbol
@@ -12258,13 +12258,13 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x10")
-		(at 229.87 146.05 90)
+		(at 232.41 146.05 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c8316cff-7ceb-453c-84c3-0b29c5e6801e")
 		(property "Reference" "J4"
 			(at 231.14 139.7 90)
@@ -12283,8 +12283,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Horizontal"
-			(at 229.87 146.05 0)
+		(property "Footprint" "Connector_JST:JST_XH_S10B-XH-A-1_1x10_P2.50mm_Horizontal"
+			(at 232.41 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12293,7 +12293,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 229.87 146.05 0)
+			(at 232.41 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12302,7 +12302,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 229.87 146.05 0)
+			(at 232.41 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
