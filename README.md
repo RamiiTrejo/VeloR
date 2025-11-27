@@ -14,7 +14,6 @@ El velocista "VeloR" es un robot seguidor de línea diseñado para competir en d
 ## Contenidos
 - **Firmware**: En esta carpeta encontrarás el código fuente del firmware utilizado en VeloR. El firmware está escrito en lenguaje C++ y se basa en la plataforma de desarrollo ESP32. Incluye los algoritmos de control, la lógica de seguimiento de línea y la comunicación con los sensores y actuadores del robot.
 - **Hardware**: Aquí se encuentran los diseños y esquemas del hardware electrónico utilizado en VeloR. Estos archivos incluyen los esquemas de conexión y los diagramas de circuitos.
-- **3D**: También encontraremos los archivos 3D que se utilizarán en este proyecto.
 
 ## 🎉Objetivo
 
